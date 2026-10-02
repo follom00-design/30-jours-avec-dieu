@@ -1,0 +1,6 @@
+{
+  "name": "30 Jours avec Dieu",
+  "description": "Un parcours simple pour retrouver une routine de prière. WebBook chrétien premium de 30 jours à lire sur téléphone.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
