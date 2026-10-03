@@ -1,4 +1,5 @@
 import React from 'react';
+import heroCoverImg from '../assets/images/webbook_hero_cover_1790918113345.jpg';
 import { motion } from 'motion/react';
 import { ShieldCheck, Sparkles, Smartphone, Clock, ArrowRight } from 'lucide-react';
 import { PRODUCT_PRICE, PURCHASE_URL } from '../config';
